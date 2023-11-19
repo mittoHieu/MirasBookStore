@@ -1,0 +1,9 @@
+# .gitignore
+
+# Ignore Node.js related files and folders
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Ignore environment configuration files
+.env
